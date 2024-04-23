@@ -1,0 +1,226 @@
+region,council,beach,site_type,beach_suitability_grade,comparison_to_last_year
+North Coast,Byron Shire Council,South Golden Beach,Ocean beach,Good,NA
+North Coast,Byron Shire Council,New Brighton Beach,Ocean beach,Good,NA
+North Coast,Byron Shire Council,Torakina Beach,Estuarine,Poor,NA
+North Coast,Byron Shire Council,Simspons Creek,Estuarine,Poor,NA
+North Coast,Byron Shire Council,Main Beach (Byron Bay),Ocean beach,Good,NA
+North Coast,Byron Shire Council,Clarkes Beach,Ocean beach,Good,NA
+North Coast,Byron Shire Council,Tallow Beach (Suffolk Park),Ocean beach,Good,NA
+North Coast,Balline Shire Council,Seven Mile Beach,Ocean beach,Very Good,Stable
+North Coast,Balline Shire Council,Lake Ainsworth North,Lake / Lagoon,Poor,Stable
+North Coast,Balline Shire Council,Lake Ainsworth East,Lake / Lagoon,Poor,Decrease
+North Coast,Balline Shire Council,Lake Ainsworth South,Lake / Lagoon,Good,Stable
+North Coast,Balline Shire Council,Lake Ainsworth West,Lake / Lagoon,Poor,Stable
+North Coast,Balline Shire Council,Shelly Beach,Ocean beach,Very Good,Stable
+North Coast,Balline Shire Council,Lighthouse Beach,Ocean beach,Very Good,Stable
+North Coast,Balline Shire Council,Shaws Bay North,Estuarine,Poor,Stable
+North Coast,Balline Shire Council,Shaws Bay East,Estuarine,Good,Stable
+North Coast,Balline Shire Council,Shaws Bay East Arm,Estuarine,Good,Stable
+North Coast,Balline Shire Council,Shaws Bay East Beach,Estuarine,Good,Stable
+North Coast,Balline Shire Council,Shaws Bay West,Estuarine,Poor,Stable
+North Coast,Balline Shire Council,The Serpentine,Estuarine,Good,Stable
+North Coast,Balline Shire Council,Missingham Beach,Estuarine,Poor,NA
+North Coast,Richmond Valley Council,Airforce Beach,Ocean beach,Good,Stable
+North Coast,Richmond Valley Council,Main Beach,Ocean beach,Good,Stable
+North Coast,Richmond Valley Council,Shark Bay,Ocean beach,Very Good,Stable
+North Coast,Richmond Valley Council,Evans River,Estuarine,Poor,Stable
+North Coast,Richmond Valley Council,Elm Street Bridge North (Evans River),Estuarine,Poor,Decrease
+Mid-North Coast,Bellingen Shire Council,Arthur Keough Reserve (Never Never River),Freshwater,Poor,NA
+Mid-North Coast,Bellingen Shire Council,Lavenders Bridge (Bellingen River),Estuarine,Poor,NA
+Mid-North Coast,Bellingen Shire Council,Dalhouise Creek,Lagoon,NA,NA
+Mid-North Coast,Bellingen Shire Council,Hungry Head Beach,Ocean beach,Poor,NA
+Mid-North Coast,Bellingen Shire Council,Urunga Lido (Kalang River),Estuarine,Poor,NA
+Mid-North Coast,Bellingen Shire Council,Mylestorm Baths (Bellingen River),Estuarine,NA,NA
+Mid-North Coast,Bellingen Shire Council,North Beach,Ocean beach,Good,NA
+Hunter,Port Stephens Council,Zenith Beach,Ocean beach,Very Good,Stable
+Hunter,Port Stephens Council,Box Beach,Ocean beach,Very Good,Stable
+Hunter,Port Stephens Council,Fingal Beach,Ocean beach,Very Good,Increase
+Hunter,Port Stephens Council,One Mile Beach,Ocean beach,Very Good,Stable
+Hunter,City of Newcastle Council,South Stockton Beach,Ocean beach,Very Good,Increase
+Hunter,City of Newcastle Council,Nobbys Beach,Ocean beach,Very Good,Stable
+Hunter,City of Newcastle Council,Newcastle Beach,Ocean beach,Very Good,Stable
+Hunter,City of Newcastle Council,Bar Beach,Ocean beach,Very Good,Stable
+Hunter,City of Newcastle Council,Merewether Beach,Ocean beach,Very Good,Stable
+Hunter,City of Newcastle Council,Burwood North Beach,Ocean beach,Very Good,Stable
+Hunter,City of Newcastle Council,Burwood South Beach,Ocean beach,Very Good,Stable
+Hunter,Lake Macquarie City Council,Glenrock Lagoon Beach,Ocean beach,Very Good,Stable
+Hunter,Lake Macquarie City Council,Dudley Beach,Ocean beach,Very Good,Stable
+Hunter,Lake Macquarie City Council,Redhead Beach,Ocean beach,Very Good,Stable
+Hunter,Lake Macquarie City Council,Blacksmiths Beach,Ocean beach,Very Good,Stable
+Hunter,Lake Macquarie City Council,Swansea Heads Little Beach,Ocean beach,Very Good,Stable
+Hunter,Lake Macquarie City Council,Caves Beach,Ocean beach,Very Good,Stable
+Central Coast,Central Coast Council,Lakes Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Cabbage Tree Bay Rockpool,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Soldiers Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,North Entrance Beach,Ocean beach,Very Good,Stable
+Central Coast,Central Coast Council,The Entrance Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,The Entrance Ocean Baths,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Toowoon Bay,Ocean beach,Good,Decrease
+Central Coast,Central Coast Council,Shelly Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Gwandalan,Lake / Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Summerland Point Baths,Lake / Lagoon,Poor,Decrease
+Central Coast,Central Coast Council,Chain Valley Bay,Lake / Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Mannering Park Baths,Lake / Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Lake Munmorah Baths,Lake / Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Canton Beach,Lake / Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Wamberal Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Wamberal Lagoon,Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Terrigal Beach,Ocean beach,Poor,Stable
+Central Coast,Central Coast Council,Terrigal Lagoon,Lagoon,Poor,Stable
+Central Coast,Central Coast Council,North Avoca Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Avoca Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Avoca Lagoon,Lagoon,Poor,Stable
+Central Coast,Central Coast Council,Copacabana Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Cockrone Lagoon,Lagoon,Poor,Stable
+Central Coast,Central Coast Council,MacMasters Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Killcare Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Ocean Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Umina Beach,Ocean beach,Good,Stable
+Central Coast,Central Coast Council,Pearl Beach Rockpool,Ocean baths,Good,Stable
+Central Coast,Central Coast Council,Davistown Baths,Estuarine,Poor,Stable
+Central Coast,Central Coast Council,Pretty Beach Baths,Estuarine,Poor,Stable
+Central Coast,Central Coast Council,Woy Woy Baths,Estuarine,Poor,Stable
+Central Coast,Central Coast Council,Yattalunga Baths,Estuarine,Poor,Stable
+Sydney,North Sydney - Ocean beaches,Palm Beach,Ocean beach,Very Good,Stable
+Sydney,North Sydney - Ocean beaches,Whale Beach,Ocean beach,Very Good,Stable
+Sydney,North Sydney - Ocean beaches,Avalon Beach,Ocean beach,Very Good,Stable
+Sydney,North Sydney - Ocean beaches,Bilgola Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Newport Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Bungan Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Mona Vale Beach,Ocean beach,Good,Decrease
+Sydney,North Sydney - Ocean beaches,Warriewood Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Turimetta Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,North Narrabeen Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Narrabeen Lagoon (Birdwood Park),Lagoon,Poor,Stable
+Sydney,North Sydney - Ocean beaches,Bilarong Reserve,Lagoon,Poor,Stable
+Sydney,North Sydney - Ocean beaches,Collaroy Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Long Reef Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Dee Why Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,North Curl Curl Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,South Curl Curl Beach,Ocean beach,Good,Decrease
+Sydney,North Sydney - Ocean beaches,Freshwater Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Queenscliff Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,North Steyne Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,South Steyne Beach,Ocean beach,Good,Stable
+Sydney,North Sydney - Ocean beaches,Shelly Beach,Ocean beach,Good,Stable
+Sydney,Northern Sydney - Pittwater,Barrenjoey Beach,Estuarine,Good,Stable
+Sydney,Northern Sydney - Pittwater,Paradise Beach Baths,Estuarine,Good,Stable
+Sydney,Northern Sydney - Pittwater,Clareville Beach,Estuarine,Good,Stable
+Sydney,Northern Sydney - Pittwater,Taylors Point Baths,Estuarine,Good,Stable
+Sydney,Northern Sydney - Pittwater,Bayview Baths,Estuarine,Poor,Stable
+Sydney,Northern Sydney - Pittwater,Elvina Bay,Estuarine,Good,Decrease
+Sydney,Northern Sydney - Pittwater,North Scotland Island,Estuarine,Good,Stable
+Sydney,Northern Sydney - Pittwater,South Scotland Island,Estuarine,Good,Stable
+Sydney,Northern Sydney - Pittwater,The Basin,Estuarine,Very Good,Stable
+Sydney,Northern Sydney - Pittwater,Great Mackerel Beach,Estuarine,Very Good,Stable
+Sydney,Central Sydney - Ocean beaches,Bondi Beach,Ocean beach,Good,Stable
+Sydney,Central Sydney - Ocean beaches,Tamarama Beach,Ocean beach,Good,Stable
+Sydney,Central Sydney - Ocean beaches,Bronte Beach,Ocean beach,Good,Stable
+Sydney,Central Sydney - Ocean beaches,Clovelly Beach,Ocean beach,Good,Decrease
+Sydney,Central Sydney - Ocean beaches,Gordons Bay,Ocean beach,Good,Stable
+Sydney,Central Sydney - Ocean beaches,Coogee Beach,Ocean beach,Poor,Stable
+Sydney,Central Sydney - Ocean beaches,Maroubra Beach,Ocean beach,Good,Stable
+Sydney,Central Sydney - Ocean beaches,South Maroubra Beach,Ocean beach,Good,Decrease
+Sydney,Central Sydney - Ocean beaches,South Maroubra Rockpool,Ocean baths,Good,Stable
+Sydney,Central Sydney - Ocean beaches,Malabar Beach,Ocean beach,Poor,Decrease
+Sydney,Central Sydney - Ocean beaches,Little Bay Beach,Ocean beach,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Camp Cove,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Watsons Bay,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Parsley Bay,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Nielsen Park,Estuarine,Good,Decrease
+Sydney,Central Sydney - Sydney Harbour,Rose Bay Beach,Estuarine,Poor,Stable
+Sydney,Central Sydney - Sydney Harbour,Murray Rose Pool,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Dawn Fraser Pool,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Chiswick Baths,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Cabarita Beach,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Woolwich Baths,Estuarine,Poor,Decrease
+Sydney,Central Sydney - Sydney Harbour,Tambourine Bay,Estuarine,Poor,Stable
+Sydney,Central Sydney - Sydney Harbour,Woodford Bay,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Greenwich Baths,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Hayes St Beach,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Clifton Gardens,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Balmoral Baths,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Edwards Beach,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Chinamans Beach,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Northbridge Baths,Estuarine,Poor,Stable
+Sydney,Central Sydney - Sydney Harbour,Davidson Reserve,Estuarine,Poor,Stable
+Sydney,Central Sydney - Sydney Harbour,Gurney Crescent Baths,Estuarine,Poor,Decrease
+Sydney,Central Sydney - Sydney Harbour,Clontarf Pool,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Forty Baskets Pool,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Fairlight Beach,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Manly Cove,Estuarine,Good,Stable
+Sydney,Central Sydney - Sydney Harbour,Little Manly Cove,Estuarine,Good,Stable
+Sydney,Southern Sydney - Ocean beaches,Boat Harbour,Ocean beach,Good,Stable
+Sydney,Southern Sydney - Ocean beaches,Greenhills Beach,Ocean beach,Very Good,Stable
+Sydney,Southern Sydney - Ocean beaches,Wanda Beach,Ocean beach,Very Good,Stable
+Sydney,Southern Sydney - Ocean beaches,Elouera Beach,Ocean beach,Very Good,Stable
+Sydney,Southern Sydney - Ocean beaches,North Cronulla Beach,Ocean beach,Very Good,Stable
+Sydney,Southern Sydney - Ocean beaches,South Cronulla Beach,Ocean beach,Good,Stable
+Sydney,Southern Sydney - Ocean beaches,Shelly Beach,Ocean beach,Very Good,Stable
+Sydney,Southern Sydney - Ocean beaches,Oak Park,Ocean beach,Very Good,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Silver Beach,Estuarine,Good,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Como Baths,Estuarine,Poor,Decrease
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Jew Fish Bay Baths,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Oatley Bay Baths,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Carss Point Baths,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Sandringham Baths,Estuarine,Good,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Dolls Point Baths,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Ramsgate Baths,Estuarine,Good,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Monterey Baths,Estuarine,Good,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Brighton-Le-Sands Baths,Estuarine,Poor,Decrease
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Kyeemagh Baths,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Foreshores Beach,Estuarine,Very Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Yarra Bay,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Frenchmans Bay,Estuarine,Poor,Stable
+Sydney,Southern Sydney - Botany Bay and lower Georges River,Congwong Bay,Estuarine,Good,Stable
+Sydney,Southern Sydney - Port Hacking,Jibbon Beach,Estuarine,Good,Stable
+Sydney,Southern Sydney - Port Hacking,Horderns Beach,Estuarine,Good,Stable
+Sydney,Southern Sydney - Port Hacking,Gymea Bay Baths,Estuarine,Very Poor,Decrease
+Sydney,Southern Sydney - Port Hacking,Lilli Pilli Baths,Estuarine,Good,Stable
+Sydney,Southern Sydney - Port Hacking,Gunnamatta Bay Baths,Estuarine,Poor,Decrease
+Sydney,Western Sydney - Blue Mountains Council,Megalong Creek,Freshwater,Poor,Stable
+Sydney,Western Sydney - Blue Mountains Council,Yosemite Creek - Minnehaha Falls,Freshwater,Very Poor,Stable
+Sydney,Western Sydney - Blue Mountains Council,Wentworth Falls Lake - Jetty,Freshwater,Poor,Stable
+Sydney,Western Sydney - Blue Mountains Council,Wentworth Falls Lake - Beach,Freshwater,Poor,Decrease
+Sydney,Wollongong City Council,Stanwell Park Beach,Ocean beach,Very Good,Stable
+Sydney,Wollongong City Council,Coledale Beach,Ocean beach,Very Good,Increase
+Sydney,Wollongong City Council,Austinmer Beach,Ocean beach,Very Good,Stable
+Sydney,Wollongong City Council,Thirroul Beach,Ocean beach,Good,Stable
+Sydney,Wollongong City Council,Bulli Beach,Ocean beach,Good,Stable
+Sydney,Wollongong City Council,Woonona Beach,Ocean beach,Very Good,Stable
+Sydney,Wollongong City Council,Bellambi Beach,Ocean beach,Good,Stable
+Sydney,Wollongong City Council,Corrimal Beach,Ocean beach,Good,Stable
+Sydney,Wollongong City Council,North Wollongong Beach,Ocean beach,Good,Stable
+Sydney,Wollongong City Council,Wollongong City Beach,Ocean beach,Very Good,Stable
+Sydney,Wollongong City Council,Coniston Beach,Ocean beach,Good,Decrease
+Sydney,Wollongong City Council,Fishermans Beach,Ocean beach,Very Good,Stable
+Sydney,Wollongong City Council,Port Kembla Beach,Ocean beach,Good,Stable
+Sydney,Shellharbour City Council,Entrance Lagoon Beach,Lake / Lagoon,Poor,Decrease
+Sydney,Shellharbour City Council,Warilla Beach,Ocean beach,Good,Stable
+Sydney,Shellharbour City Council,Shellharbour Beach,Ocean beach,Very Good,Stable
+Sydney,Kiama Municipal Council,Boyds Jones Beach,Ocean beach,Good,Stable
+Sydney,Kiama Municipal Council,Bombo Beach,Ocean beach,Good,Stable
+Sydney,Kiama Municipal Council,Surf Beach Kiama,Ocean beach,Good,Stable
+Sydney,Kiama Municipal Council,Werri Beach,Ocean beach,Good,Decrease
+Sydney,Kiama Municipal Council,Seven Mile Beach (Gerroa),Ocean beach,Good,Stable
+Sydney,South Coast,Shoalhaven Heads Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Tilbury Cove,Ocean beach,Very Good,Stable
+Sydney,South Coast,Warrain Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Collingwood Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Cudmirrah Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Mollymook Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Rennies Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Racecourse Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Bawley Point Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Merry Beach,Ocean beach,Very Good,Stable
+Sydney,South Coast,Cookies Beach,Ocean beach,Very Good,Stable
+Sydney,Eurobodalla Shire Council,Caseys Beach,Ocean beach,Good,Stable
+Sydney,Eurobodalla Shire Council,Surf Beach,Ocean beach,Poor,Increase
+Sydney,Eurobodalla Shire Council,Malua Bay Beach,Ocean beach,Very Good,Stable
+Sydney,Eurobodalla Shire Council,Broulee Beach,Ocean beach,Good,Increase
+Sydney,Eurobodalla Shire Council,South Broulee (Bengello) Beach,Ocean beach,Very Good,Stable
+Sydney,Eurobodalla Shire Council,Shelley Beach (Moruya Heads),Ocean beach,Good,Stable
+Sydney,Eurobodalla Shire Council,Tuross Main Beach,Ocean beach,Good,Stable
+Sydney,Eurobodalla Shire Council,Brou Beach,Ocean beach,Very Good,Stable
+Sydney,Eurobodalla Shire Council,Wagonga Inlet,Estuarine,Good,Stable
+Sydney,Eurobodalla Shire Council,Narooma Main Beach,Ocean beach,Good,Stable
